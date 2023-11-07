@@ -16,11 +16,11 @@ Dichas historias de usuario conforman un ABM básico de un alumno.
 Las tareas, desarrolladas en equipo, se dividen de la siguiente manera, siendo cada columna un miembro del equipo.
 
 1. Saldaña Micaela Soledad.
-**Implementar la funcionalidad para agregar un alumno al sistema.**
-        - Crear la página y el formulario de inicio de sesión.
-        - Implementar la lógica para verificar los datos de inicio de sesión en la base de datos. 
-        - Crear la página y el formulario para agregar un alumno
-        - Implementar la lógica para guardar los datos del alumno en la base de datos.
+   -Implementar la funcionalidad para agregar un alumno al sistema.
+     - Crear la página y el formulario de inicio de sesión.
+   - Implementar la lógica para verificar los datos de inicio de sesión en la base de datos. 
+   - Crear la página y el formulario para agregar un alumno
+   - Implementar la lógica para guardar los datos del alumno en la base de datos.
 **Ayudar en la implementación de la funcionalidad para modificar un alumno.**
     - Colaborar en la creación del formulario con los datos precargados del alumno.
     - Ayudar en la implementación de la lógica para guardar los cambios en la base de datos.
