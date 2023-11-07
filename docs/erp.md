@@ -14,6 +14,11 @@ Los usuarios potenciales del software incluyen:
     - Preceptores: Quienes serán responsables de registrar la asistencia de los estudiantes, gestionar la información de los alumnos y generar informes.
     - Alumnos: Los beneficiarios indirectos, ya que el sistema mejorará la precisión en el registro de asistencias y, por lo tanto, su seguimiento académico.
 
+1. Los usuarios potenciales del software incluyen:
+    - Preceptores: Quienes serán responsables de registrar la asistencia de los estudiantes, gestionar la información de los alumnos y generar informes.
+    - Alumnos: Los beneficiarios indirectos, ya que el sistema mejorará la precisión en el registro de asistencias y, por lo tanto, su seguimiento académico.
+    
+
 
 ## Requisitos
 
