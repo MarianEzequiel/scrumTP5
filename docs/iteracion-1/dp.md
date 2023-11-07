@@ -25,7 +25,7 @@ Las tareas, desarrolladas en equipo, se dividen de la siguiente manera, siendo c
       - Colaborar en la creación del formulario con los datos precargados del alumno.
       - Ayudar en la implementación de la lógica para guardar los cambios en la base de datos.
       - Colaborar en la actualización de la página para reflejar los datos modificados en el listado.
-
+<br>
 - Acuña, Rubén Omar.
    - **Implementar la funcionalidad para agregar un alumno al sistema.**
       - Crear la página y el formulario de inicio de sesión.
@@ -36,7 +36,7 @@ Las tareas, desarrolladas en equipo, se dividen de la siguiente manera, siendo c
       - Colaborar en la creación del formulario con los datos precargados del alumno.
       - Ayudar en la implementación de la lógica para guardar los cambios en la base de datos.
       - Colaborar en la actualización de la página para reflejar los datos modificados en el listado.
-    
+<br>
 - Dos Santos, Lucas Emanuel.
    - **Implementar la funcionalidad para agregar un alumno al sistema.**
       - Crear la página y el formulario de inicio de sesión.
