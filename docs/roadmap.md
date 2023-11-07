@@ -23,7 +23,7 @@ ___
 
 | Debe tener | Es bueno tenerlas | Fuera de alcance|
 | -----------| ------------------|-----------------|
-|P4 |P7 |C1 |
+|P4 |P7 | |
 |P5 | |
 |P6 | |
 |P8 | |
