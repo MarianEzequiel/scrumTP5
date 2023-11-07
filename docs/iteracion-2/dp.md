@@ -6,9 +6,9 @@ Este documento posee el diseño y la planificación tentativa para el desarrollo
 ## Backlog de iteración
 Conforme a lo que respecta la iteración 2, se han elegido las siguientes historias de usuario.
 
-**P1**: Como preceptor, quiero poder agregar materias al sistema. <br> 
-**P2**: Como preceptor, quiero poder eliminar una materia del sistema en caso de que se haya cargado incorrectamente. <br>
-**P3**: Como preceptor, quiero poder modificar los datos de las materias. <br>
+**P8**: Como preceptor, quiero poder agregar materias al sistema. <br> 
+**P9**: Como preceptor, quiero poder eliminar una materia del sistema en caso de que se haya cargado incorrectamente. <br>
+**P10**: Como preceptor, quiero poder modificar los datos de las materias. <br>
 
 Dichas historias de usuario conforman un ABM básico de una materia. 
 
