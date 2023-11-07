@@ -1,72 +1,26 @@
-# Requisitos funcionales 
+# Especificación de requisitos de software
 
-A continuación se detallan los requisitos funcionales para el sistema de reservas de habitaciones solicitado concorde a las especificaciones del cliente. 
+## Enunciado del problema
 
-1. El sistema requiere que se puedan registrar habitaciones con los siguientes datos
-    - Número identificativo 
-    - Piso en donde se encuentra la habitación.
-    - Tipo de habitación (single, doble, triple, múltiple)
-    - Precio de habitación por noche. 
-<br>
-<br>
-2. El sistema requiere que se puedan registrar tipos de habitación con los siguientes datos
-    - Nombre
-    - Capacidad 
-<br>
-<br>
-3. El sistema requiere que se puedan registrar reservas de las habitaciones cargadas.
-<br>
-<br>
-4. El sistema requiere que las reservas tengan una fecha check-in y una fecha check-out
-<br>
-<br>
-5. El sistema requiere que antes de confirmar la reserva, se verifique si la habitación solicitada no está reservada en el periodo de tiempo que se haya elegido para dicha reserva.
-<br>
-<br>
-6. El sistema requiere que conforme a la cantidad de días de la reserva y al tipo de habitación, se informe el monto total de lo que costará la estadía.
-<br>
-<br>
-7. El sistema requiere que se verifique la cantidad de personas que se hospedarán en una habitación, teniendo en cuenta que no se supere la cantidad establecida por el tipo de habitación (single, doble, triple, múltiple).
-<br>
-<br>
-8. El sistema requiere que se puedan registrar los datos del huesped el cual estará a cargo de la reserva
-    - Dni
-    - Nombre
-    - Apellido
-    - Fecha de Nacimiento
-    - Dirección (dónde vive)
-    - Profesión 
-<br>
-<br>
-9. *El sistema requiere que se puedan marcar a un huesped como no admitido el cual no va a poder realizar nuevas reservas.*
-<br>
-<br>
-10. El sistema requiere que los empleados esten registrados en el sistema. Para cada empleado se requieren los siguientes datos.
-    - Dni
-    - Nombre
-    - Apellido
-    - Fecha de Nacimiento
-    - Dirección 
-    - Teléfono
-    - Cargo
-<br>
-<br>
-11. El sistema requiere que se registren usuarios para poder ingresar al sistema. Para cada usuario se requieren los siguientes datos.
-    - usuario
-    - contraseña
-    - Empleado asociado
-<br>
-<br>
-12. El sistema requiere que se conozca qué usuario dio de alta qué reserva y cuándo lo hizo.
-<br>
-<br>
-13. El Sistema requiere que se puedan realizar las siguientes consultas: 
-    - Todas las reservas realizadas en un determinado día.
-    - Todos los huéspedes registrados en el sistema.
-    - Lista de las reservas realizadas por un determinado empleado.
-    - Listas de todas las reservas realizadas por un determinado huésped en un período desde/hasta
-    - *Todas las habitaciones disponibles en el momento de la consulta.*
-    - *Todas las habitacioes ocupadas en el momento de la consulta.*
-<br>
+La Escuela de Negocios enfrenta desafíos en el seguimiento manual de la asistencia de los estudiantes, lo que consume tiempo y es propenso a errores. Esta situación afecta negativamente la eficiencia y precisión en el monitoreo del comportamiento y la asistencia de los alumnos. Por lo tanto, es esencial desarrollar un software que automatice este proceso y brinde una solución eficiente y segura para el registro y seguimiento de asistencias.
+
+## Clientes potenciales
+ 
+¿Quiénes están afectados por este problema y se beneficiarían de la solución propuesta? *(es decir, los usuarios potenciales del software que están por construir)*.
+
+## Solución propuesta 
+
+Los usuarios potenciales del software incluyen:
+    - Preceptores: Quienes serán responsables de registrar la asistencia de los estudiantes, gestionar la información de los alumnos y generar informes.
+    - Alumnos: Los beneficiarios indirectos, ya que el sistema mejorará la precisión en el registro de asistencias y, por lo tanto, su seguimiento académico.
+
+
+## Requisitos
+
+Enumeren los requisitos *(funcionales)* que debe tener el software para resolver el problema mencionado anteriormente. Es útil tratar de agrupar los requisitos en los que son esenciales *(debe estar)* y los que no son esenciales *(sería bueno que estén)*.
+ 
+## Arquitectura de software
+
+¿Será esta una aplicación web / de escritorio / móvil *(todas o algún otro tipo)*? ¿Se ajustaría a la arquitectura de software Cliente-Servidor? ¿Qué lenguajes de programación, frameworks, bases de datos,... se utilizarán para desarrollar e implementar el software?
 <br>
 14. El sistema requiere que se den a conocer las ganancias diarias y/o mensuales conforme a las reservas realizadas de las habitaciones.
