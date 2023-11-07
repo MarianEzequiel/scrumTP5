@@ -54,7 +54,7 @@ Dichas historias de usuario conforman un ABM básico de un alumno.
     - El usuario modifica los campos que cree apropiados modificar y hace clic en el botón "Guardar cambios"
     - El sistema modifica los datos en la base de datos y actualiza la página para reflejar los datos modificados en el listado.
 
-3. Eliminar una habitación
+3. Eliminar un alumno
     - El usuario, en la sección de alumnos, hace clic en el botón de "Eliminar".
     - El sistema despliega un modal a modo de confirmación indicando en un mensaje si se está seguro de eliminar al alumno.
     - El usuario hace clic en el botón "Aceptar". 
