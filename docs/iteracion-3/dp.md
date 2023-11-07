@@ -46,7 +46,7 @@ Dichas historias de usuario conforman un lo que sería gestor de asistencia.
     - El usuario hace click en el boton "Guardar".
     - El sistema envía los datos y limpia el formulario.
   
-   2. Imprimir Asistencia
+2. Imprimir Asistencia
     - El usuario visita la página web y se dirige a la sección de "Registrar Asistencia".
     - El sistema lo redirecciona a la pantalla apropiada.
     - El usuario hace clic en la lista desplegable "Materia". 
