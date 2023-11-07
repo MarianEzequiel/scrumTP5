@@ -1,6 +1,6 @@
 #  Roadmap - Plan tentantivo de historias de usuario
 
-En este documento se desarrola un plan tentativo que abarca las historias de usuario que componen el proyecto. Primeramente, se expondrán la historias en un lenguaje coloquial y luego se dividirán en grupos concorde a la prioridad/tiempo estimado de cada una.
+En este documento se desarrola un plan tentativo que abarca las historias de usuario que componen el proyecto. Primeramente, se expondrán la historias en un lenguaje coloquial y luego se dividirán en grupos concorde a la prioridad de cada una.
 
 ## Historias de usuarios
 
