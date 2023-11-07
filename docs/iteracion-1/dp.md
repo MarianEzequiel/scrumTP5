@@ -24,29 +24,23 @@ Las tareas, desarrolladas en equipo, se dividen de la siguiente manera, siendo c
    - **Ayudar en la implementación de la funcionalidad para modificar un alumno.**
       - Colaborar en la creación del formulario con los datos precargados del alumno.
       - Ayudar en la implementación de la lógica para guardar los cambios en la base de datos.
-      - Colaborar en la actualización de la página para reflejar los datos modificados en el listado.
 
 2. Acuña, Rubén Omar.
-   - **Implementar la funcionalidad para agregar un alumno al sistema.**
-      - Crear la página y el formulario de inicio de sesión.
-      - Implementar la lógica para verificar los datos de inicio de sesión en la base de datos. 
-      - Crear la página y el formulario para agregar un alumno
-      - Implementar la lógica para guardar los datos del alumno en la base de datos.
-   - **Ayudar en la implementación de la funcionalidad para modificar un alumno.**
-      - Colaborar en la creación del formulario con los datos precargados del alumno.
-      - Ayudar en la implementación de la lógica para guardar los cambios en la base de datos.
-      - Colaborar en la actualización de la página para reflejar los datos modificados en el listado.
+   - **Implementar la funcionalidad para modificar un alumno en el sistema.**
+      - Crear la lógica para cargar los datos del alumno seleccionado en el formulario de edición.
+      - Implementar la lógica para guardar los cambios realizados por el usuario en la base de datos.
+   - **Ayudar en la implementación de la funcionalidad para eliminar un alumno.**
+      - Colaborar en la creación del modal de confirmación para eliminar un alumno.
+      - Ayudar en la implementación de la lógica para eliminar los datos del alumno de la base de datos.
 
 3. Dos Santos, Lucas Emanuel.
-   - **Implementar la funcionalidad para agregar un alumno al sistema.**
-      - Crear la página y el formulario de inicio de sesión.
-      - Implementar la lógica para verificar los datos de inicio de sesión en la base de datos. 
-      - Crear la página y el formulario para agregar un alumno
-      - Implementar la lógica para guardar los datos del alumno en la base de datos.
+   - **Implementar la funcionalidad para eliminar un alumno del sistema.**
+      - Crear el modal de confirmación para eliminar un alumno.
+      - Implementar la lógica para eliminar los datos del alumno de la base de datos. 
    - **Ayudar en la implementación de la funcionalidad para modificar un alumno.**
-      - Colaborar en la creación del formulario con los datos precargados del alumno.
-      - Ayudar en la implementación de la lógica para guardar los cambios en la base de datos.
-      - Colaborar en la actualización de la página para reflejar los datos modificados en el listado.
+      - Colaborar con el equipo en el diseño de las páginas y formularios.
+      - Implementar mejoras visuales y de usabilidad en la interfaz de usuario según sea necesario.
+
 
 ## Diseño OO
 
