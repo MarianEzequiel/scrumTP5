@@ -1,7 +1,7 @@
 # Documento de diseño y planificación 
 Este documento posee el diseño y la planificación tentativa para el desarrollo del sistema a lo largo de la iteración 1.
 
-**Lider de la iteración**: Saldaña Micaela Soledad.
+**Lider de la iteración**: Castellano, Mariano Ezequiel.
 
 ## Backlog de iteración
 Conforme a lo que respecta la iteración 1, se han elegido las siguientes historias de usuario.
