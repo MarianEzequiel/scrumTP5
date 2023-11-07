@@ -2,10 +2,6 @@
 
 En este documento se desarrola un plan tentativo que abarca las historias de usuario que componen el proyecto. Primeramente, se expondrán la historias en un lenguaje coloquial y luego se dividirán en grupos concorde a la prioridad/tiempo estimado de cada una.
 
-> Las etiquetas para cada historia de usuario están compuestas por una letra y un número donde la letra indica el actor, por ejemplo Gerente, y el número su correspondiente número en el listado. <br><br>
-*Historia* **G1** corresponde a la historia #1 del listado de historias del actor Gerente. 
-<br>
-
 ## Historias de usuarios
 
 ### Administrador
