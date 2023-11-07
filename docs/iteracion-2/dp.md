@@ -1,7 +1,7 @@
 # Documento de diseño y planificación 
 Este documento posee el diseño y la planificación tentativa para el desarrollo del sistema a lo largo de la iteración 2.
 
-**Lider de la iteración**: Dos Santos Lucas Emanuel.
+**Lider de la iteración**: Saldaña, Micaela Soledad.
 
 ## Backlog de iteración
 Conforme a lo que respecta la iteración 2, se han elegido las siguientes historias de usuario.
@@ -11,6 +11,34 @@ Conforme a lo que respecta la iteración 2, se han elegido las siguientes histor
 **P10**: Como preceptor, quiero poder modificar los datos de las materias. <br>
 
 Dichas historias de usuario conforman un ABM básico de una materia. 
+
+## Trabajo en equipo y Tareas
+Las tareas, desarrolladas en equipo, se dividen de la siguiente manera, siendo cada columna un miembro del equipo.
+
+1. Saldaña Micaela Soledad.
+   - **Implementar la funcionalidad para agregar una materia al sistema.**
+      - Crear la página de inicio tras haber iniciado sesión.
+      - Crear la página y el formulario para agregar una materia.
+      - Implementar la lógica para guardar los datos de la materia en la base de datos.
+   - **Ayudar en la implementación de la funcionalidad para modificar una materia.**
+      - Colaborar en la creación del formulario con los datos precargados de la materia.
+      - Ayudar en la implementación de la lógica para guardar los cambios en la base de datos.
+
+2. Acuña, Rubén Omar.
+   - **Implementar la funcionalidad para modificar una materia en el sistema.**
+      - Crear la lógica para cargar los datos de la materia seleccionado en el formulario de edición.
+      - Implementar la lógica para guardar los cambios realizados por el usuario en la base de datos.
+   - **Ayudar en la implementación de la funcionalidad para eliminar una materia.**
+      - Colaborar en la creación del modal de confirmación para eliminar una materia.
+      - Ayudar en la implementación de la lógica para eliminar los datos de la materia de la base de datos.
+
+3. Dos Santos, Lucas Emanuel.
+   - **Implementar la funcionalidad para eliminar una materia del sistema.**
+      - Crear el modal de confirmación para eliminar una materia.
+      - Implementar la lógica para eliminar los datos de la materia de la base de datos. 
+   - **Ayudar en la implementación de la funcionalidad para modificar una materia.**
+      - Colaborar con el equipo en el diseño de las páginas y formularios.
+      - Implementar mejoras visuales y de usabilidad en la interfaz de usuario según sea necesario.
 
 ## Diseño OO
 
