@@ -15,7 +15,7 @@ Tecnologías a Utilizar:
 - Tener phpMyAdmin instalado o cualquier otra herramienta para gestionar la base de datos MySQL.
 
 ### Pasos
-1. Clonar el repositorio: git clone url_del_repo
+1. Clonar el repositorio: git clone https://github.com/MarianEzequiel/scrumTP5.git
 2. Colocar los archivos del proyecto en la carpeta del servidor web (por ejemplo, en la carpeta htdocs para XAMPP).
 3. Importar la base de datos:
     Acceder a phpMyAdmin en tu navegador (http://localhost/phpmyadmin).
