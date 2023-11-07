@@ -14,20 +14,19 @@ La Escuela de Negocios enfrenta desafíos en el seguimiento manual de la asisten
 
 ## Solución propuesta 
 
-1. El Sistema de Asistencias para la Preceptoría del Instituto es una aplicación web que permitirá a los preceptores:
-    - Crear cuentas y acceder al sistema con credenciales únicas.
-    - Registrar la asistencia diaria de los estudiantes de manera eficiente.
+1. El Sistema de Asistencias para la Preceptoría de la Escuela de Negocios es una aplicación web que permitirá a los preceptores:
+    - Acceder al sistema con credenciales únicas.
+    - Registrar la asistencia diaria de los alumnos de manera eficiente.
     - Agregar, editar y eliminar información de los estudiantes, incluyendo detalles de contacto y datos personales.
     - Registrar ausencias y ausencias justificadas de los estudiantes.
     - Agregar y gestionar información sobre las materias impartidas.
-    - Generar informes detallados sobre la asistencia de los estudiantes en un período específico.
+    - Generar informes sobre la asistencia de los estudiantes en un período específico.
     - Proporcionar una interfaz de usuario intuitiva y fácil de usar.
 
 
 ## Requisitos
 
 1. Requisitos Esenciales:
-    - Registro de preceptores con credenciales únicas.
     - Registro de asistencia diaria de estudiantes, incluyendo ausencias y ausencias justificadas.
     - Gestión de información de estudiantes, incluyendo edición y eliminación.
     - Registro y gestión de información de materias.
