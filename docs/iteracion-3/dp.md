@@ -6,10 +6,25 @@ Este documento posee el diseño y la planificación tentativa para el desarrollo
 ## Backlog de iteración
 Conforme a lo que respecta la iteración 3, se han elegido las siguientes historias de usuario.
 
-- **P1**: Como preceptor, quiero poder registrar la asistencia de los alumnos de acuerdo a su materia. <br>
-- **P2**: Como preceptor, quiero poder registrar la ausencia de los alumnos de acuerdo a su materia. <br>
-- **P3**: Como preceptor, quiero poder registrar la ausencia justificada de los alumnos de acuerdo a su materia. <br>
-- **P7**: Como preceptor, quiero poder imprimir el listado de asistencia. <br>
+**P1:**<br>
+Como preceptor,<br>
+Quiero poder registrar la asistencia de los alumnos de acuerdo a su materia,<br>
+Para hacer un seguimiento de la asistencia de los estudiantes en cada clase.
+
+**P2:**<br>
+Como preceptor,<br>
+Quiero poder registrar la ausencia de los alumnos de acuerdo a su materia,<br>
+Para tener un registro de las ausencias de los estudiantes en cada clase.
+
+**P3:**<br>
+Como preceptor,<br>
+Quiero poder registrar la ausencia justificada de los alumnos de acuerdo a su materia,<br>
+Para mantener un registro de las ausencias justificadas de los estudiantes y tener en cuenta las razones válidas de su ausencia.
+
+**P7:**<br>
+Como preceptor,<br>
+Quiero poder imprimir el listado de asistencia,<br>
+Para tener una copia impresa del registro de asistencia que pueda ser utilizada para referencia y archivo.
 
 Dichas historias de usuario conforman un lo que sería gestor de asistencia. 
 
