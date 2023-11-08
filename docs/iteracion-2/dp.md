@@ -24,7 +24,7 @@ Para actualizar la información de las asignaturas de manera precisa y oportuna.
 Dichas historias de usuario conforman un ABM básico de una materia. 
 
 ## Trabajo en equipo y Tareas
-Las tareas, desarrolladas en equipo, se dividen de la siguiente manera, siendo cada columna un miembro del equipo.
+Las tareas, desarrolladas en equipo, se dividen de la siguiente manera.
 
 1. Saldaña Micaela Soledad.
    - **Implementar la funcionalidad para agregar una materia al sistema.**
