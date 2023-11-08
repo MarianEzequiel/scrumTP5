@@ -24,7 +24,7 @@ Para actualizar la información de los estudiantes de manera precisa y oportuna.
 Dichas historias de usuario conforman un ABM básico de un alumno. 
 
 ## Trabajo en equipo y Tareas
-Las tareas, desarrolladas en equipo, se dividen de la siguiente manera, siendo cada columna un miembro del equipo.
+Las tareas, desarrolladas en equipo, se dividen de la siguiente manera.
 
 1. Saldaña Micaela Soledad.
    - **Implementar la funcionalidad para agregar un alumno al sistema.**
