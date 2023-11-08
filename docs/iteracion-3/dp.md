@@ -28,6 +28,9 @@ Para tener una copia impresa del registro de asistencia que pueda ser utilizada 
 
 Dichas historias de usuario conforman un lo que sería gestor de asistencia. 
 
+## Trabajo en equipo y Tareas
+Las tareas, desarrolladas en equipo, se dividen de la siguiente manera.
+
 1. Acuña, Rubén Omar.
    - **Implementar la funcionalidad para registrar la asistencia de los alumnos.**
       - Crear la página y el formulario para registrar la asistencia.
