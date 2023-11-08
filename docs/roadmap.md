@@ -6,52 +6,52 @@ En este documento se desarrola un plan tentativo que abarca las historias de usu
 
 ### Preceptor
 
-**P4:**
+**P4:**<br>
 Como preceptor, <br>
 Quiero poder agregar alumnos al sistema,<br>
 Para mantener un registro actualizado de los estudiantes en el sistema.
 
-**P5:**
+**P5:**<br>
 Como preceptor,<br>
 Quiero poder eliminar un alumno del sistema en caso de que se haya cargado incorrectamente,<br>
 Para corregir errores y mantener la precisión de los datos del sistema.
 
-**P6:**
+**P6:**<br>
 Como preceptor,<br>
 Quiero poder modificar los datos de los alumnos,<br>
 Para actualizar la información de los estudiantes de manera precisa y oportuna.
 
-**P8:**
+**P8:**<br>
 Como preceptor,<br>
 Quiero poder agregar materias al sistema,<br>
 Para tener un registro de las asignaturas que se ofrecen en la institución.
 
-**P9:**
+**P9:**<br>
 Como preceptor,<br>
 Quiero poder eliminar una materia del sistema en caso de que se haya cargado incorrectamente,<br>
 Para corregir errores y mantener la precisión de los datos del sistema de materias.
 
-**P10:**
+**P10:**<br>
 Como preceptor,<br>
 Quiero poder modificar los datos de las materias,<br>
 Para actualizar la información de las asignaturas de manera precisa y oportuna.
 
-**P1:**
+**P1:**<br>
 Como preceptor,<br>
 Quiero poder registrar la asistencia de los alumnos de acuerdo a su materia,<br>
 Para hacer un seguimiento de la asistencia de los estudiantes en cada clase.
 
-**P2:**
+**P2:**<br>
 Como preceptor,<br>
 Quiero poder registrar la ausencia de los alumnos de acuerdo a su materia,<br>
 Para tener un registro de las ausencias de los estudiantes en cada clase.
 
-**P3:**
+**P3:**<br>
 Como preceptor,<br>
 Quiero poder registrar la ausencia justificada de los alumnos de acuerdo a su materia,<br>
 Para mantener un registro de las ausencias justificadas de los estudiantes y tener en cuenta las razones válidas de su ausencia.
 
-**P7:**
+**P7:**<br>
 Como preceptor,<br>
 Quiero poder imprimir el listado de asistencia,<br>
 Para tener una copia impresa del registro de asistencia que pueda ser utilizada para referencia y archivo.
