@@ -6,9 +6,20 @@ Este documento posee el diseño y la planificación tentativa para el desarrollo
 ## Backlog de iteración
 Conforme a lo que respecta la iteración 1, se han elegido las siguientes historias de usuario.
 
-**P1**: Como preceptor, quiero poder agregar alumnos al sistema. <br> 
-**P2**: Como preceptor, quiero poder eliminar una alumnos del sistema en caso de que se haya cargado incorrectamente. <br>
-**P3**: Como preceptor, quiero poder modificar los datos de los alumnos. <br>
+**P4:**<br>
+Como preceptor, <br>
+Quiero poder agregar alumnos al sistema,<br>
+Para mantener un registro actualizado de los estudiantes en el sistema.
+
+**P5:**<br>
+Como preceptor,<br>
+Quiero poder eliminar un alumno del sistema en caso de que se haya cargado incorrectamente,<br>
+Para corregir errores y mantener la precisión de los datos del sistema.
+
+**P6:**<br>
+Como preceptor,<br>
+Quiero poder modificar los datos de los alumnos,<br>
+Para actualizar la información de los estudiantes de manera precisa y oportuna.
 
 Dichas historias de usuario conforman un ABM básico de un alumno. 
 
